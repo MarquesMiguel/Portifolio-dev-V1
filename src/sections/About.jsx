@@ -17,7 +17,7 @@ export default function About() {
       <div style={{ maxWidth: 880, margin: '0 auto', padding: '0 28px' }}>
         <SectionHeader label="quem sou" title="Sobre mim" />
 
-        <div style={{ display: 'grid', gridTemplateColumns: '1fr 1fr', gap: 48, alignItems: 'start' }}>
+        <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: 48, alignItems: 'start' }}>
 
           <Reveal>
             <div>
