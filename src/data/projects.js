@@ -16,7 +16,7 @@ const projects = [
     name: 'Newton Questions API',
     desc: 'Quiz interativo temático com Isaac Newton — interface em React conectada a uma API Flask com banco SQLite. Construído do zero em 24 horas como projeto escolar solo.',
     tags: ['React', 'Flask', 'SQLite', 'REST API'],
-    href: 'https://github.com/MarquesMiguel/newton-questions-API',
+    href: 'https://github.com/tchelonsius/RotaRio',
     accent: vars.accent,
   },
   {
