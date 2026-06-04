@@ -7,7 +7,7 @@ const projects = [
     name: 'RotaRio',
     desc: 'Recomendação de rotas de transporte público mais seguras no Rio de Janeiro, cruzando dados de ocorrências criminais do Fogo Cruzado com a malha de ônibus GTFS. Desenvolvido para a UFRJ Analytica.',
     tags: ['Python', 'GTFS', 'GeoPandas', 'algoritmo de rota'],
-    href: 'https://github.com/MarquesMiguel/RotaRio',
+    href: 'https://github.com/tchelonsius/RotaRio',
     accent: vars.accent3,
   },
   {
@@ -16,7 +16,7 @@ const projects = [
     name: 'Newton Questions API',
     desc: 'Quiz interativo temático com Isaac Newton — interface em React conectada a uma API Flask com banco SQLite. Construído do zero em 24 horas como projeto escolar solo.',
     tags: ['React', 'Flask', 'SQLite', 'REST API'],
-    href: 'https://github.com/tchelonsius/RotaRio',
+    href: 'https://github.com/MarquesMiguel/newton-questions-API',
     accent: vars.accent,
   },
   {
