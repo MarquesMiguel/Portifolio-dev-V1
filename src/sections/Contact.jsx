@@ -52,7 +52,7 @@ export default function Contact({ onOpenModal }) {
               >
                 Falar sobre seu projeto →
               </button>
-              <Btn href="https://linkedin.com/in/seu-linkedin">LinkedIn</Btn>
+              <Btn href="https://www.linkedin.com/in/miguelmarquesdev/">LinkedIn</Btn>
               <Btn href="https://github.com/MarquesMiguel">GitHub</Btn>
             </div>
           </div>
