@@ -7,7 +7,7 @@ const projects = [
     name: 'RotaRio',
     desc: 'Recomendação de rotas de transporte público mais seguras no Rio de Janeiro, cruzando dados de ocorrências criminais do Fogo Cruzado com a malha de ônibus GTFS. Desenvolvido para a UFRJ Analytica.',
     tags: ['Python', 'GTFS', 'GeoPandas', 'algoritmo de rota'],
-    href: 'https://github.com/tchelonsius/RotaRio',
+    href: 'https://github.com/MarquesMiguel/RotaRio',
     accent: vars.accent3,
   },
   {
